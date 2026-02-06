@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Sona 👋
 
-<!--
-**SonasWilson/SonasWilson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Robotics Student in Finland  
+🤖 Interested in Machine Learning & Computer Vision  
+💻 Python Developer  
 
-Here are some ideas to get you started:
+I enjoy building end-to-end ML projects — from data preprocessing and model training to deployment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔗 Links
+LinkedIn: https://www.linkedin.com/in/sonapwilson  
+Resume: (will add soon)
+
+---
+
+## 🚀 Featured Projects
+
+### 🍕 FoodVision Mini – Image Classification Web App
+Image classification model built using PyTorch and EfficientNet and deployed on Hugging Face Spaces.
+
+🔗 Live App: https://huggingface.co/spaces/sonawilson/foodvision-mini  
+
+---
+
+### 🍣 Food Image Classifier – CNN (ResNet)
+CNN-based image classifier trained using PyTorch.
+
+🔗 GitHub Project: https://github.com/SonasWilson
+
+---
+
+## 🧠 Skills
+Python • Machine Learning • Deep Learning • PyTorch • Computer Vision  
+Django • REST APIs • MySQL • Git • GitHub
+
+---
+
+📫 Reach me: sonapreethywilson@gmail.com
