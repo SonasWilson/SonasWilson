@@ -10,7 +10,6 @@ I enjoy building end-to-end ML projects — from data preprocessing and model tr
 
 ## 🔗 Links
 LinkedIn: https://www.linkedin.com/in/sonapwilson  
-Resume: https://github.com/SonasWilson/ml-portfolio/blob/main/SONA_P_WILSON_Resume.pdf
 
 ---
 
