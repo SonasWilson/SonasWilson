@@ -33,6 +33,3 @@ CNN-based image classifier trained using PyTorch.
 Python • Machine Learning • Deep Learning • PyTorch • Computer Vision  
 Django • REST APIs • MySQL • Git • GitHub
 
----
-
-📫 Reach me: sonapreethywilson@gmail.com
