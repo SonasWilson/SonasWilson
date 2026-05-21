@@ -1,8 +1,7 @@
 # Hi, I'm Sona 👋
 
 🎓 MSc Robotics Student in Finland  
-🤖 Interested in Machine Learning & Computer Vision  
-💻 Python Developer  
+🤖 Interested in artificial intelligence + applied systems 
 
 I enjoy building end-to-end ML projects — from data preprocessing and model training to deployment.
 
@@ -11,19 +10,7 @@ I enjoy building end-to-end ML projects — from data preprocessing and model tr
 ## 🔗 Links
 LinkedIn: https://www.linkedin.com/in/sonapwilson  
 
----
 
-## 🚀 Featured Projects
-
-### 🍕 FoodVision Mini – Image Classification Web App
-Image classification model built using PyTorch and EfficientNet and deployed on Hugging Face Spaces.
-
-🔗 Live App: https://huggingface.co/spaces/sonawilson/foodvision-mini  
-
----
-
-### 🍣 Food Image Classifier – CNN (ResNet)
-CNN-based image classifier trained using PyTorch.
 
 🔗 GitHub Project: https://github.com/SonasWilson
 
